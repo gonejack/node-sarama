@@ -1,0 +1,15 @@
+{
+  "name": "node-sarama",
+  "version": "1.0.0",
+  "description": "sarama wrapper in node.js with IPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gonejack",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.13.4",
+    "svmq": "^1.0.7"
+  }
+}

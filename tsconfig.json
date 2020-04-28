@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2018",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "baseUrl": "./",
+        "outDir": "./out"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
